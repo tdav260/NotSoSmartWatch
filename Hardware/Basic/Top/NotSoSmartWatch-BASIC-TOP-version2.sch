@@ -5601,21 +5601,13 @@ monitor battery voltage</text>
 <segment>
 <pinref part="SW3" gate="G$1" pin="3"/>
 <wire x1="363.22" y1="2.54" x2="365.76" y2="2.54" width="0.1524" layer="91"/>
-<wire x1="365.76" y1="2.54" x2="365.76" y2="0" width="0.1524" layer="91"/>
-<pinref part="SW3" gate="G$1" pin="4"/>
-<wire x1="365.76" y1="0" x2="365.76" y2="-2.54" width="0.1524" layer="91"/>
-<wire x1="363.22" y1="0" x2="365.76" y2="0" width="0.1524" layer="91"/>
-<junction x="365.76" y="0"/>
+<wire x1="365.76" y1="2.54" x2="365.76" y2="-2.54" width="0.1524" layer="91"/>
 <pinref part="GND1" gate="G$1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="SW4" gate="G$1" pin="3"/>
 <wire x1="393.7" y1="2.54" x2="396.24" y2="2.54" width="0.1524" layer="91"/>
-<wire x1="396.24" y1="2.54" x2="396.24" y2="0" width="0.1524" layer="91"/>
-<pinref part="SW4" gate="G$1" pin="4"/>
-<wire x1="396.24" y1="0" x2="396.24" y2="-2.54" width="0.1524" layer="91"/>
-<wire x1="393.7" y1="0" x2="396.24" y2="0" width="0.1524" layer="91"/>
-<junction x="396.24" y="0"/>
+<wire x1="396.24" y1="2.54" x2="396.24" y2="-2.54" width="0.1524" layer="91"/>
 <pinref part="GND3" gate="G$1" pin="GND"/>
 </segment>
 <segment>
